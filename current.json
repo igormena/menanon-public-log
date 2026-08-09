@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T03:03:00Z",
+  "generated_at": "2026-08-09T03:02:31Z",
   "schema_version": "1.0",
   "quarters_covered": [
     "2025Q4",
@@ -872,7 +872,7 @@
     {
       "ticker": "CEG",
       "filing_quarter": "2025Q4",
-      "magnitude": 1.749,
+      "magnitude": 1.7489,
       "breadth": 2,
       "direction": 1,
       "confirmed": true,
@@ -1880,14 +1880,14 @@
     {
       "ticker": "DELL",
       "filing_quarter": "2025Q4",
-      "magnitude": 0.0691,
+      "magnitude": 0.069,
       "breadth": 1,
       "direction": 1,
       "confirmed": false,
       "disagreement": false,
       "quant_isolated": true,
       "persistence_quarters": 1,
-      "score_ui": 50.35,
+      "score_ui": 50.34,
       "inflow_funds_count": 1,
       "outflow_funds_count": 0,
       "net_flow_usd": 19679072,
@@ -1964,7 +1964,7 @@
     {
       "ticker": "CAT",
       "filing_quarter": "2025Q4",
-      "magnitude": -0.0263,
+      "magnitude": -0.0264,
       "breadth": 1,
       "direction": -1,
       "confirmed": false,
@@ -4043,7 +4043,7 @@
     {
       "ticker": "META",
       "filing_quarter": "2026Q1",
-      "magnitude": 18.5269,
+      "magnitude": 18.5266,
       "breadth": 4,
       "direction": 1,
       "confirmed": true,
@@ -4085,7 +4085,7 @@
     {
       "ticker": "AAPL",
       "filing_quarter": "2026Q1",
-      "magnitude": 9.3169,
+      "magnitude": 9.3166,
       "breadth": 5,
       "direction": 1,
       "confirmed": true,
@@ -4379,7 +4379,7 @@
     {
       "ticker": "TSEM",
       "filing_quarter": "2026Q1",
-      "magnitude": 5.0042,
+      "magnitude": 5.0041,
       "breadth": 2,
       "direction": 1,
       "confirmed": true,
@@ -4568,7 +4568,7 @@
     {
       "ticker": "CLS",
       "filing_quarter": "2026Q1",
-      "magnitude": 3.3621,
+      "magnitude": 3.3618,
       "breadth": 3,
       "direction": 1,
       "confirmed": true,
@@ -4589,7 +4589,7 @@
     {
       "ticker": "LRCX",
       "filing_quarter": "2026Q1",
-      "magnitude": 3.2676,
+      "magnitude": 3.2688,
       "breadth": 1,
       "direction": 1,
       "confirmed": true,
@@ -4652,7 +4652,7 @@
     {
       "ticker": "UBER",
       "filing_quarter": "2026Q1",
-      "magnitude": 3.1261,
+      "magnitude": 3.1266,
       "breadth": 1,
       "direction": 1,
       "confirmed": true,
@@ -4715,7 +4715,7 @@
     {
       "ticker": "CRWV",
       "filing_quarter": "2026Q1",
-      "magnitude": 2.8999,
+      "magnitude": 2.8998,
       "breadth": 4,
       "direction": 1,
       "confirmed": true,
@@ -5030,7 +5030,7 @@
     {
       "ticker": "MU",
       "filing_quarter": "2026Q1",
-      "magnitude": 1.5743,
+      "magnitude": 1.5736,
       "breadth": 4,
       "direction": 1,
       "confirmed": true,
@@ -5051,7 +5051,7 @@
     {
       "ticker": "V",
       "filing_quarter": "2026Q1",
-      "magnitude": 1.5497,
+      "magnitude": 1.5504,
       "breadth": 2,
       "direction": 1,
       "confirmed": true,
@@ -5492,7 +5492,7 @@
     {
       "ticker": "NUE",
       "filing_quarter": "2026Q1",
-      "magnitude": 0.4382,
+      "magnitude": 0.4381,
       "breadth": 1,
       "direction": 1,
       "confirmed": false,
@@ -5639,7 +5639,7 @@
     {
       "ticker": "STLD",
       "filing_quarter": "2026Q1",
-      "magnitude": 0.3304,
+      "magnitude": 0.3303,
       "breadth": 1,
       "direction": 1,
       "confirmed": false,
@@ -6248,7 +6248,7 @@
     {
       "ticker": "KLAC",
       "filing_quarter": "2026Q1",
-      "magnitude": 0.0949,
+      "magnitude": 0.0948,
       "breadth": 1,
       "direction": 1,
       "confirmed": false,
@@ -6626,7 +6626,7 @@
     {
       "ticker": "MRVL",
       "filing_quarter": "2026Q1",
-      "magnitude": -0.0883,
+      "magnitude": -0.0885,
       "breadth": 1,
       "direction": -1,
       "confirmed": false,
@@ -6689,14 +6689,14 @@
     {
       "ticker": "PINS",
       "filing_quarter": "2026Q1",
-      "magnitude": -0.1411,
+      "magnitude": -0.1409,
       "breadth": 1,
       "direction": -1,
       "confirmed": false,
       "disagreement": true,
       "quant_isolated": true,
       "persistence_quarters": 2,
-      "score_ui": 49.29,
+      "score_ui": 49.3,
       "inflow_funds_count": 1,
       "outflow_funds_count": 1,
       "net_flow_usd": -36287577,
@@ -6731,7 +6731,7 @@
     {
       "ticker": "CI",
       "filing_quarter": "2026Q1",
-      "magnitude": -0.1677,
+      "magnitude": -0.1675,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -6752,7 +6752,7 @@
     {
       "ticker": "CVS",
       "filing_quarter": "2026Q1",
-      "magnitude": -0.1702,
+      "magnitude": -0.1701,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -7046,7 +7046,7 @@
     {
       "ticker": "HCA",
       "filing_quarter": "2026Q1",
-      "magnitude": -0.3625,
+      "magnitude": -0.3622,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -7109,7 +7109,7 @@
     {
       "ticker": "JNJ",
       "filing_quarter": "2026Q1",
-      "magnitude": -0.6383,
+      "magnitude": -0.6377,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -7149,6 +7149,27 @@
       "passive_outflow": 0
     },
     {
+      "ticker": "NOW",
+      "filing_quarter": "2026Q1",
+      "magnitude": -0.6666,
+      "breadth": 1,
+      "direction": -1,
+      "confirmed": false,
+      "disagreement": true,
+      "quant_isolated": true,
+      "persistence_quarters": 1,
+      "score_ui": 46.67,
+      "inflow_funds_count": 1,
+      "outflow_funds_count": 2,
+      "net_flow_usd": 52545567,
+      "concentrated_inflow": 0,
+      "quant_inflow": 1,
+      "passive_inflow": 0,
+      "concentrated_outflow": 1,
+      "quant_outflow": 1,
+      "passive_outflow": 0
+    },
+    {
       "ticker": "BSX",
       "filing_quarter": "2026Q1",
       "magnitude": -0.6672,
@@ -7167,27 +7188,6 @@
       "passive_inflow": 0,
       "concentrated_outflow": 1,
       "quant_outflow": 0,
-      "passive_outflow": 0
-    },
-    {
-      "ticker": "NOW",
-      "filing_quarter": "2026Q1",
-      "magnitude": -0.6673,
-      "breadth": 1,
-      "direction": -1,
-      "confirmed": false,
-      "disagreement": true,
-      "quant_isolated": true,
-      "persistence_quarters": 1,
-      "score_ui": 46.66,
-      "inflow_funds_count": 1,
-      "outflow_funds_count": 2,
-      "net_flow_usd": 52545567,
-      "concentrated_inflow": 0,
-      "quant_inflow": 1,
-      "passive_inflow": 0,
-      "concentrated_outflow": 1,
-      "quant_outflow": 1,
       "passive_outflow": 0
     },
     {
@@ -7466,7 +7466,7 @@
     {
       "ticker": "GEV",
       "filing_quarter": "2026Q1",
-      "magnitude": -1.3841,
+      "magnitude": -1.3834,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -7487,7 +7487,7 @@
     {
       "ticker": "WDAY",
       "filing_quarter": "2026Q1",
-      "magnitude": -1.3983,
+      "magnitude": -1.3976,
       "breadth": 1,
       "direction": -1,
       "confirmed": false,
@@ -7592,14 +7592,14 @@
     {
       "ticker": "CRM",
       "filing_quarter": "2026Q1",
-      "magnitude": -1.7012,
+      "magnitude": -1.6995,
       "breadth": 1,
       "direction": -1,
       "confirmed": false,
       "disagreement": true,
       "quant_isolated": true,
       "persistence_quarters": 2,
-      "score_ui": 41.49,
+      "score_ui": 41.5,
       "inflow_funds_count": 1,
       "outflow_funds_count": 1,
       "net_flow_usd": 196292054,
@@ -7634,14 +7634,14 @@
     {
       "ticker": "ADBE",
       "filing_quarter": "2026Q1",
-      "magnitude": -1.7561,
+      "magnitude": -1.7544,
       "breadth": 2,
       "direction": -1,
       "confirmed": true,
       "disagreement": true,
       "quant_isolated": false,
       "persistence_quarters": 1,
-      "score_ui": 41.22,
+      "score_ui": 41.23,
       "inflow_funds_count": 2,
       "outflow_funds_count": 2,
       "net_flow_usd": 17227704,
@@ -7907,14 +7907,14 @@
     {
       "ticker": "MA",
       "filing_quarter": "2026Q1",
-      "magnitude": -2.7496,
+      "magnitude": -2.7487,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
       "disagreement": false,
       "quant_isolated": false,
       "persistence_quarters": 2,
-      "score_ui": 36.25,
+      "score_ui": 36.26,
       "inflow_funds_count": 0,
       "outflow_funds_count": 3,
       "net_flow_usd": -2497953530,
@@ -8033,7 +8033,7 @@
     {
       "ticker": "SNPS",
       "filing_quarter": "2026Q1",
-      "magnitude": -3.3862,
+      "magnitude": -3.3863,
       "breadth": 2,
       "direction": -1,
       "confirmed": true,
@@ -8159,14 +8159,14 @@
     {
       "ticker": "BKNG",
       "filing_quarter": "2026Q1",
-      "magnitude": -3.8743,
+      "magnitude": -3.8727,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
       "disagreement": false,
       "quant_isolated": false,
       "persistence_quarters": 2,
-      "score_ui": 30.63,
+      "score_ui": 30.64,
       "inflow_funds_count": 0,
       "outflow_funds_count": 3,
       "net_flow_usd": -558282426,
@@ -8180,14 +8180,14 @@
     {
       "ticker": "AMZN",
       "filing_quarter": "2026Q1",
-      "magnitude": -3.8777,
+      "magnitude": -3.8797,
       "breadth": 4,
       "direction": -1,
       "confirmed": true,
       "disagreement": true,
       "quant_isolated": false,
       "persistence_quarters": 1,
-      "score_ui": 30.61,
+      "score_ui": 30.6,
       "inflow_funds_count": 4,
       "outflow_funds_count": 3,
       "net_flow_usd": 512376538,
@@ -8390,7 +8390,7 @@
     {
       "ticker": "AVGO",
       "filing_quarter": "2026Q1",
-      "magnitude": -7.2755,
+      "magnitude": -7.2766,
       "breadth": 3,
       "direction": -1,
       "confirmed": true,
@@ -8453,7 +8453,7 @@
     {
       "ticker": "RDDT",
       "filing_quarter": "2026Q1",
-      "magnitude": -9.088,
+      "magnitude": -9.0873,
       "breadth": 1,
       "direction": -1,
       "confirmed": true,
@@ -8537,7 +8537,7 @@
     {
       "ticker": "GOOG",
       "filing_quarter": "2026Q1",
-      "magnitude": -15.4543,
+      "magnitude": -15.4555,
       "breadth": 6,
       "direction": -1,
       "confirmed": true,
@@ -8831,7 +8831,7 @@
     {
       "ticker": "WFC",
       "filing_quarter": "2026Q2",
-      "magnitude": -0.4115,
+      "magnitude": -0.4114,
       "breadth": 2,
       "direction": -1,
       "confirmed": true,
@@ -8852,7 +8852,7 @@
     {
       "ticker": "CI",
       "filing_quarter": "2026Q2",
-      "magnitude": -0.4437,
+      "magnitude": -0.4436,
       "breadth": 2,
       "direction": -1,
       "confirmed": true,
@@ -9146,7 +9146,7 @@
     {
       "ticker": "ONTO",
       "filing_quarter": "2026Q2",
-      "magnitude": -0.5986,
+      "magnitude": -0.5985,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -9335,7 +9335,7 @@
     {
       "ticker": "STLD",
       "filing_quarter": "2026Q2",
-      "magnitude": -0.6607,
+      "magnitude": -0.6606,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -9377,7 +9377,7 @@
     {
       "ticker": "ALAB",
       "filing_quarter": "2026Q2",
-      "magnitude": -0.6896,
+      "magnitude": -0.6895,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -9419,7 +9419,7 @@
     {
       "ticker": "BKR",
       "filing_quarter": "2026Q2",
-      "magnitude": -0.7067,
+      "magnitude": -0.7066,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -9440,7 +9440,7 @@
     {
       "ticker": "APH",
       "filing_quarter": "2026Q2",
-      "magnitude": -0.7204,
+      "magnitude": -0.7202,
       "breadth": 2,
       "direction": -1,
       "confirmed": true,
@@ -9461,7 +9461,7 @@
     {
       "ticker": "NRG",
       "filing_quarter": "2026Q2",
-      "magnitude": -0.7206,
+      "magnitude": -0.7205,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -9524,7 +9524,7 @@
     {
       "ticker": "PCAR",
       "filing_quarter": "2026Q2",
-      "magnitude": -0.752,
+      "magnitude": -0.7519,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -9797,7 +9797,7 @@
     {
       "ticker": "NUE",
       "filing_quarter": "2026Q2",
-      "magnitude": -0.8764,
+      "magnitude": -0.8762,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -10133,7 +10133,7 @@
     {
       "ticker": "TEL",
       "filing_quarter": "2026Q2",
-      "magnitude": -1.0977,
+      "magnitude": -1.0976,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -10385,7 +10385,7 @@
     {
       "ticker": "KLAC",
       "filing_quarter": "2026Q2",
-      "magnitude": -1.3407,
+      "magnitude": -1.3405,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -10511,7 +10511,7 @@
     {
       "ticker": "LLY",
       "filing_quarter": "2026Q2",
-      "magnitude": -1.5371,
+      "magnitude": -1.537,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -10595,7 +10595,7 @@
     {
       "ticker": "MRVL",
       "filing_quarter": "2026Q2",
-      "magnitude": -1.6174,
+      "magnitude": -1.6172,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -10826,7 +10826,7 @@
     {
       "ticker": "NEM",
       "filing_quarter": "2026Q2",
-      "magnitude": -1.9961,
+      "magnitude": -1.9957,
       "breadth": 2,
       "direction": -1,
       "confirmed": true,
@@ -10868,7 +10868,7 @@
     {
       "ticker": "SNPS",
       "filing_quarter": "2026Q2",
-      "magnitude": -2.0265,
+      "magnitude": -2.0264,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -10910,7 +10910,7 @@
     {
       "ticker": "JNJ",
       "filing_quarter": "2026Q2",
-      "magnitude": -2.0358,
+      "magnitude": -2.0355,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -10931,7 +10931,7 @@
     {
       "ticker": "ANET",
       "filing_quarter": "2026Q2",
-      "magnitude": -2.0636,
+      "magnitude": -2.0634,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -11162,7 +11162,7 @@
     {
       "ticker": "VRT",
       "filing_quarter": "2026Q2",
-      "magnitude": -2.6505,
+      "magnitude": -2.6504,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -11582,7 +11582,7 @@
     {
       "ticker": "HCA",
       "filing_quarter": "2026Q2",
-      "magnitude": -4.0272,
+      "magnitude": -4.0271,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -11855,7 +11855,7 @@
     {
       "ticker": "TSEM",
       "filing_quarter": "2026Q2",
-      "magnitude": -5.0042,
+      "magnitude": -5.0041,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -12065,7 +12065,7 @@
     {
       "ticker": "WDC",
       "filing_quarter": "2026Q2",
-      "magnitude": -5.6044,
+      "magnitude": -5.6043,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -12128,7 +12128,7 @@
     {
       "ticker": "CSX",
       "filing_quarter": "2026Q2",
-      "magnitude": -5.8473,
+      "magnitude": -5.8472,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -12527,7 +12527,7 @@
     {
       "ticker": "AMKR",
       "filing_quarter": "2026Q2",
-      "magnitude": -8.7978,
+      "magnitude": -8.7977,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -12674,7 +12674,7 @@
     {
       "ticker": "TLN",
       "filing_quarter": "2026Q2",
-      "magnitude": -10.1052,
+      "magnitude": -10.1051,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -12716,7 +12716,7 @@
     {
       "ticker": "MU",
       "filing_quarter": "2026Q2",
-      "magnitude": -10.5415,
+      "magnitude": -10.5408,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -12968,7 +12968,7 @@
     {
       "ticker": "TER",
       "filing_quarter": "2026Q2",
-      "magnitude": -13.1642,
+      "magnitude": -13.1641,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -13136,7 +13136,7 @@
     {
       "ticker": "CLS",
       "filing_quarter": "2026Q2",
-      "magnitude": -17.0862,
+      "magnitude": -17.086,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -13325,7 +13325,7 @@
     {
       "ticker": "GEV",
       "filing_quarter": "2026Q2",
-      "magnitude": -21.1654,
+      "magnitude": -21.1649,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -13388,7 +13388,7 @@
     {
       "ticker": "LRCX",
       "filing_quarter": "2026Q2",
-      "magnitude": -24.3329,
+      "magnitude": -24.3324,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -13430,7 +13430,7 @@
     {
       "ticker": "AMD",
       "filing_quarter": "2026Q2",
-      "magnitude": -28.8434,
+      "magnitude": -28.843,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -13598,7 +13598,7 @@
     {
       "ticker": "AAPL",
       "filing_quarter": "2026Q2",
-      "magnitude": -56.04,
+      "magnitude": -56.0398,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -13619,7 +13619,7 @@
     {
       "ticker": "AVGO",
       "filing_quarter": "2026Q2",
-      "magnitude": -71.8881,
+      "magnitude": -71.8873,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -13661,7 +13661,7 @@
     {
       "ticker": "MSFT",
       "filing_quarter": "2026Q2",
-      "magnitude": -80.4707,
+      "magnitude": -80.4701,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -13703,7 +13703,7 @@
     {
       "ticker": "GOOG",
       "filing_quarter": "2026Q2",
-      "magnitude": -117.5889,
+      "magnitude": -117.588,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -13724,7 +13724,7 @@
     {
       "ticker": "META",
       "filing_quarter": "2026Q2",
-      "magnitude": -124.1226,
+      "magnitude": -124.1223,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -13745,7 +13745,7 @@
     {
       "ticker": "AMZN",
       "filing_quarter": "2026Q2",
-      "magnitude": -127.7005,
+      "magnitude": -127.6993,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,
@@ -13787,7 +13787,7 @@
     {
       "ticker": "NVDA",
       "filing_quarter": "2026Q2",
-      "magnitude": -187.773,
+      "magnitude": -187.7719,
       "breadth": 0,
       "direction": -1,
       "confirmed": false,

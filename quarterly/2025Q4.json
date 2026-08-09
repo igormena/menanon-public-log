@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T03:03:00Z",
+  "generated_at": "2026-08-09T03:02:31Z",
   "schema_version": "1.0",
   "quarter": "2025Q4",
   "signal_count": 192,
@@ -868,7 +868,7 @@
     {
       "ticker": "CEG",
       "filing_quarter": "2025Q4",
-      "magnitude": 1.749,
+      "magnitude": 1.7489,
       "breadth": 2,
       "direction": 1,
       "confirmed": true,
@@ -1876,14 +1876,14 @@
     {
       "ticker": "DELL",
       "filing_quarter": "2025Q4",
-      "magnitude": 0.0691,
+      "magnitude": 0.069,
       "breadth": 1,
       "direction": 1,
       "confirmed": false,
       "disagreement": false,
       "quant_isolated": true,
       "persistence_quarters": 1,
-      "score_ui": 50.35,
+      "score_ui": 50.34,
       "inflow_funds_count": 1,
       "outflow_funds_count": 0,
       "net_flow_usd": 19679072,
@@ -1960,7 +1960,7 @@
     {
       "ticker": "CAT",
       "filing_quarter": "2025Q4",
-      "magnitude": -0.0263,
+      "magnitude": -0.0264,
       "breadth": 1,
       "direction": -1,
       "confirmed": false,
