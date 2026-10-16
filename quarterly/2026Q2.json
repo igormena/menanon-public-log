@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T03:04:59Z",
+  "generated_at": "2026-10-16T03:04:53Z",
   "schema_version": "1.0",
   "quarter": "2026Q2",
   "signal_count": 236,
@@ -4906,7 +4906,7 @@
       "confirmed": false,
       "disagreement": false,
       "quant_isolated": false,
-      "persistence_quarters": 2,
+      "persistence_quarters": 3,
       "score_ui": 50.0,
       "inflow_funds_count": 0,
       "outflow_funds_count": 2,
